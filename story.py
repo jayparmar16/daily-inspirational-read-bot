@@ -43,7 +43,7 @@ def cleanStory(L):
 a = cleanStory(L)
 #print(type(a))
 
-my_token = '1609959829:AAGB6Uvtbhv82EOM2ceevKcl5befJSWeIQI'
+my_token = '' # Input your unique token here
 
 def send(msg, chat_id, token=my_token):
     bot = telegram.Bot(token=token)
