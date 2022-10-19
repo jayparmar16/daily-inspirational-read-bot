@@ -10,6 +10,6 @@ Using BS4 for that link and mining the story and therefore cleaning it.
 ### storyNotebook.ipynb
 ipynb notebook with all the code for testing purpose
 
-For creating a bot, please refer to https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot
+For creating a bot, please refer to [https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot](https://sendpulse.com/knowledge-base/chatbot/telegram/create-telegram-chatbot)
 For sending messages, I have used telegram library in Python.
 I created a bot named MotivationalBot and the script is ran on Digital Ocean server with the help of Cron.
